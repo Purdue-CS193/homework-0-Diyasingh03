@@ -11,19 +11,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Diya's First CS193 Homework
 
-- Bulleted
-- List
+### _Things I like about CS193_
 
-1. Numbered
-2. List
+- _I like how CS193 goes over basics that other CS classes may not necessarily cover._
+- _I love the codeword system for attendance, the randomness makes me laugh._
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
